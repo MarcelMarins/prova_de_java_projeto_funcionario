@@ -1,5 +1,5 @@
 # prova-de-java-projeto-funcionario
-Projeto desenvolvido com orientação a objetos em Java para uma prova do meu curso técnico de informática na ETEC.
+Projeto desenvolvido com orientação a objetos em Java para uma prova do meu curso técnico de informática na ETEC. Ele não usa um banco de dados, todo input é salvo usando matrizes.
 
 Algumas imagens do projeto:
 
